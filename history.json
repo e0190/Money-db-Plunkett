@@ -1,0 +1,78 @@
+{
+  "1": [
+    {
+      "id": 1780529758465,
+      "desc": "Dishes and yrash",
+      "amount": 2,
+      "date": "Jun 3 at 04:35 PM"
+    },
+    {
+      "id": 1780196762537,
+      "desc": "Added money",
+      "amount": 2,
+      "date": "May 30 at 08:06 PM"
+    },
+    {
+      "id": 1779940390055,
+      "desc": "Trash",
+      "amount": 5,
+      "date": "May 27 at 08:53 PM"
+    },
+    {
+      "id": 1779060485719,
+      "desc": "Birthday gift from horkur",
+      "amount": 100,
+      "date": "May 17 at 04:28 PM"
+    },
+    {
+      "id": 1779060420955,
+      "desc": "Trash",
+      "amount": 2,
+      "date": "May 17 at 04:27 PM"
+    },
+    {
+      "id": 1779042496721,
+      "desc": "Init",
+      "amount": 384,
+      "date": "April 30, 6:13 PM"
+    },
+    {
+      "id": 1779042458139,
+      "desc": "Start over",
+      "amount": -383,
+      "date": "April 30, 6:10 PM"
+    },
+    {
+      "id": 1779042430303,
+      "desc": "Trash",
+      "amount": 2,
+      "date": "April 10, 7:47 AM"
+    },
+    {
+      "id": 1779042403571,
+      "desc": "original money",
+      "amount": 381,
+      "date": "April 10, 7:47 AM"
+    }
+  ],
+  "2": [
+    {
+      "id": 1780529826786,
+      "desc": "Trash",
+      "amount": 1,
+      "date": "Jun 3 at 04:37 PM"
+    },
+    {
+      "id": 1779940425130,
+      "desc": "Trash and dishes",
+      "amount": 10,
+      "date": "May 27 at 08:53 PM"
+    },
+    {
+      "id": 1779042530139,
+      "desc": "Init",
+      "amount": 17.5,
+      "date": "April 30, 6:13 PM"
+    }
+  ]
+}
