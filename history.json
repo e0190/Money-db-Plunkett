@@ -1,6 +1,13 @@
 [
   null,
-  null,
+  [
+    {
+      "id": 1786212773062,
+      "desc": "Added money",
+      "amount": 5,
+      "date": "Aug 8 at 11:12 AM"
+    }
+  ],
   [
     {
       "id": 1786212765165,
